@@ -40,3 +40,5 @@ _2b_PerformanceTest_output.png:https://github.com/nidhishree-06/Advanced-Java-J2
 _3a_StringHandling Demo_output_2_repeated.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_3a_StringHandlingDemo_repeated_output.png
 (2nd part of the output)
 _3a_StringHandling Demo_repeated_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_3a_StringHandlingDemo_output_2_repeated.png
+
+_3b_StringBuilding Functions_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_3b_StringBuildingFunctions_output.png
