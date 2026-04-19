@@ -53,7 +53,7 @@ _5a_JListExample_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-
 
 _5b_TabbedPaneExample_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_5b_TabbedPaneExample_output.png
 
-_5c_JListExample_repeated_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_5c_JListExample_repeated_output.png
+_5c_JListExample_repeated_output.png:
 
 _5d_TabbedColorsExample_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_5d_TabbedColorsExample_output.png
 
