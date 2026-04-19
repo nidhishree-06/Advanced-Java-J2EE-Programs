@@ -29,3 +29,8 @@ _1b_p8_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/b
 _1b_p9_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_1b_p9_output.png
 
 _1b_p10_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_1b_p10_output.png
+
+
+_2a_StringHandling Demo_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_2a_StringHandlingDemo_output.png
+
+_2b_PerformanceTest_output.png:https://github.com/nidhishree-06/Advanced-Java-J2EE-Programs/blob/main/_2b_PerformanceTest_output.png
